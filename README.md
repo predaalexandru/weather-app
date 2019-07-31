@@ -1,3 +1,19 @@
+# Weather App 
+
+# Author
+Name: Preda Alexandru
+
+Email: alexpreda95@yahoo.com
+
+Copyright (c) 2019 Preda Alexandru
+
+# Description
+Hello guys!
+Weather App created with React.js, Bootstrap and made an API call for weather from https://openweathermap.org/
+
+# Printscreen
+![alt text](https://github.com/predaalexandru/weather-app/blob/master/Capture.PNG " Printscreen Weather App")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
